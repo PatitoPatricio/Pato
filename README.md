@@ -5,7 +5,7 @@
 <h1 align="center">Patos Patricio Website 🦆</h1>
 
 <p align="center">
-Esta esla página web para el proyecto de síntesi de <b>impresion 3D<b>, es para promocionar el video comercial.
+Esta es la página web para el proyecto de síntesi de <b>impresion 3D<b>, es para promocionar el video comercial.
 </p>
 <p align="center">
 <b>Imperio In Progress</b>
